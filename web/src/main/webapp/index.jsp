@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Welcome to Powercloud</title>
+    <title>Welcome to Powercloud.</title>
 </head>
 <body>
   <h1>DevOps and Cloud</h1>
