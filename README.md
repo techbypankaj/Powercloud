@@ -8,7 +8,8 @@ Join with us!!!!
 
 
 -----------------------------------------------
-Installation of Tomcat on Amazon linux 2
+Installation of Tomcat on Amazon linux 2  ( https://sites.google.com/view/powercloud/home?authuser=0)
+
 
 #1: Install Java
 #Install OpenJDK 17 JRE
